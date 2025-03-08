@@ -1,4 +1,4 @@
-# Star Waes Repo
+# Star Wars Repo
 
 ![./xwing.png](X-Wing)
 
